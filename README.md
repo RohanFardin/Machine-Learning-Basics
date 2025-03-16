@@ -1,7 +1,7 @@
 # Machine-Learning-Basics
 A beginner-friendly guide to Machine Learning with easy explanations and Python examples.
 
-# Beginner's Guide to Machine Learning 🚀
+## Beginner's Guide to Machine Learning 🚀
 
 Welcome to **Beginner's Guide to Machine Learning**! This repository contains a **PDF guide** designed to help beginners understand the fundamentals of machine learning in a structured and easy-to-follow manner.
 
